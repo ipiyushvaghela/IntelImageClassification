@@ -55,7 +55,7 @@ Download and install [Python 3.10.0](https://www.python.org/ftp/python/3.10.0/py
    ```
 Now we are all set to go. just upload the image of any given class and it will classify that image.
 
-![App Screenshot](https://storage.googleapis.com/kaggle-datasets-images/111880/269359/a16c143f44e79d17f54d5e670f16e03b/dataset-cover.jpg?t=2019-02-01-19-30-12)
+![App Screenshot](https://github.com/ipiyushvaghela/static/blob/main/IntelImgClass_readme.jpeg?raw=true)
 
 ## Info about other folders
 1. Folder named `BestPerformingModels` contains 3 models you can try it if you want.
