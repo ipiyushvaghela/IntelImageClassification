@@ -60,6 +60,9 @@ Now we are all set to go. just upload the image of any given class and it will c
 ## Info about other folders
 1. Folder named `BestPerformingModels` contains download file from which you can download 3 model which has .h5 extension and put that model in `BestPerformingModels` and that used in `app.py` file.
 2. Folder named `ModelBuildingIPYNBs` contains IPYNB files in which all the code is present, by using those IPYNBs our models are created, you can customize the code according to your need.
+3. Folder named `Flaskapp` contains flask app which can be run using `python app.py` after changing working directory to `Flaskapp`
+
+![App Screenshot](https://github.com/ipiyushvaghela/static/blob/main/flaskapp.png?raw=true)
 
 ## Contact
 
